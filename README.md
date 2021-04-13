@@ -4,9 +4,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ![tw](https://img.shields.io/twitter/follow/jhon_p16?style=social)
 
-![gif-led-art](https://github.com/jhon-p16/jhon-p16/blob/main/media/dj-hacker.gif)
-
 Soy Jhon, estudiante de ingeniería en software, soy un maker apasionado por el hardware y el software libre, actualmente me enfoco en el desarrollo de firmware para IIoT, domótica e instalaciones de arte interactiva. Cofundador de la comunidad [FunPython](https://github.com/FunPythonEC). De Ecuador :ecuador: pal Mundo :earth:
+
+<p align="center">
+  <img src="https://github.com/jhon-p16/jhon-p16/blob/main/media/dj-hacker.gif">
+</p>
 
 ## 🔧 Technologies & Tools
 
