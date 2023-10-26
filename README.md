@@ -3,11 +3,51 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jhon-p16.jhon-p16)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Twitter](https://img.shields.io/twitter/follow/jhon_p16?style=social)](https://twitter.com/intent/follow?screen_name=jhon_p16)
+![Static Badge](https://img.shields.io/badge/IG?style=social&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fjhon_p16)
 
-Soy Jhon, soy desarrollador de software y hardware hacker, soy un maker apasionado por el hardware y el software libre, actualmente me enfoco en el desarrollo de firmware para IIoT, domótica e instalaciones de arte interactiva. Cofundador de la comunidad [FunPython](https://github.com/FunPythonEC). De Ecuador :ecuador: pal Mundo :earth_americas:
+## Hi 👋, I'm Jhon 🇪🇨
+
+Software developer, hardware hacker, and maker with a passion for open source technologies 💻. Co-founder of the FunPython community 🐍. From Ecuador 🇪🇨 to the world 🌍.
+
+**Current work:** [BlueSensor](https://github.com/bluesensor) 📡
+
+**Learning:**
+
+- C++ 🖥️
+- Python 🐍
+- AI 🤖
+- Embedded systems ⚙️
+- Hardware design 🛠️
+
+**Contributions:**
+
+- Articles and IoT projects on FunPythonEC, a technology community working to reduce the technology divide and make knowledge more accessible: [FunPython GitHub](https://github.com/FunPythonEC) 💡
+
+**Expertise:**
+
+- MicroPython 🎯
+- Arduino 🤖
+- Hardware 🛠️
+- LPWAN 📡
+- IoT 💡
+
+**Projects:**
+
+- Industrial IoT 🏭
+- Home automation 🏡
+- Interactive art installations 🎨
+
+**Fun fact:** I love coffee ☕
 
 <p align="center">
   <img src="https://github.com/jhon-p16/jhon-p16/blob/main/media/dj-hacker.gif">
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jhon_p16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhon_p16" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jhon-p16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhon-p16" height="30" width="40" /></a>
+<a href="https://instagram.com/jhon_p16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhon_p16" height="30" width="40" /></a>
 </p>
 
 ## 🔧 Technologies & Tools
@@ -26,30 +66,8 @@ Soy Jhon, soy desarrollador de software y hardware hacker, soy un maker apasiona
 ![rpi](https://img.shields.io/badge/Hardware-Raspberry_Pi-informational?style=flat&logo=Raspberry-Pi&logoColor=white&color=6aa6f8)
 ![riscv](https://img.shields.io/badge/Hardware-Risc_V-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgCAYAAACLz2ctAAAHGUlEQVR4Xu3d4XrbIAyF4fX+L3pL0rl1HNsIEBJIX/8WnHB4keyke/b19/HzJ9jP1+Mn2JLCLucrIsDjbgFyXr8pAG7xA3E+iKkA7uMH4xwY0wJ8xg9Cf4SpAdKaAeifwO4dUBHtt4MKeJI5EO0gAvAiaxDaIATgTc4gHI8QgIWMQTgWIQCF+QJRGFTlMABWBAbCirCEQwEoDIrPDCuDEg4HoDAovsZrCEowBYCCkI5DaMUNoV193JXhz7H04vq9Egh1UqUCduQIwo7w/k8FYGeGIOwLEIB9+b1mg7A9RAC2Z/czE4DtIQKwPbu3mSBsC3KZfz22wtM6COsRLgPwbGmzoQRgMoD75c6CEYR1CJeugDNWRQAmB7gt37MiglCOMFwFnKEtAxCAbwl4VEMQyhCGroCe1RCAAPxIwLISAhCApwmAUAbDalSaFuzRjqmCZcYALGfUNQKE9/GlBPiMxKoVAxCAlwlYIAQgAAHYdRMxdnLaFmz5lR1V8BoxAA3+lwAAAvC2j4y+FwQgAAE49lau+erpW7DFRzJUQCpg8YTShosRDRlABfwfKwCH+CpeFIAALCIZNeB56AEIwFG+itcF4CGikW2YB5H3sLesqYC7XABYLFoqA/Y5AxCAKqhqLgLAi7SogDWM2sYeM6YCUgHbJDXMOjvgAARgA6X6KVfdBYAArNfUMAOAgtC4BxSE1DDkLlcqIBWwgZR8SulQA5BvQuSaGkYCUBhaKSjhZS6HZfwmRJIpFZAK2Hu2TudL8D0nAhCAABySQMVFpae14pJvQ7O135o8qYAPKjWBtSDMBLA2SwACsOVMdd337SenB1h7Ylt2K0sFbMkSgPzD9JYz9TGnBV/6p+DW0Gp2LEP168kxdQXsCU6KEID3SaUFaIHv1WIeP1KsK47rzTF0OFcb2huaFAr4ykkBsJxR84jIALUOcTqAWsFJVAKwnFIqgOArg5CM0MwxDUDN0CSbFLX6aeeYAqB2aCWAUfE9162dZWiA2mGV4G2/jwpwRJ5hAY4ISwIQfJKUfseEA+gFj+pXB+8nr7Zp883yhhf5W4+R2S5dAUcG03LEIrbf0RkvA3B0EC3g9nPA15agGODsANqWrzMrIr4RH7mcpQ1ABYMRAVoVHAB2AgRfX4AA7MgvIj6r1lv9MYxVSe7wYDoVfDpxUwEbcgRfQ2gXUwDYkGVEgB4d7pkjACsB1mRWeWnX4QB0jV/24uCT5SQZtWVJBRSkFRWe9RPvz5PvrvMCsAAwMj4PgMc8AXgDEHyC9lA5pBmgx2mpXJvqcPCpxvm62Fmm4gq4vR2PpyX9KK6vGB2eVyG5yrUaoNcCLBBmwOe1f6oAvRYxCmEWeF77dpdvUwX0Wog2wEzwvPaslHEzQK8F9SIsBdJ7/Znne9y/l/LuArgSwlIQM8PReG8z4ns9Ga+6OMn7zo7O85MLafYqAGephNJFS/BGGmNd/Wr2QQ2gF8KaxUZCJV2LNb5XW634K6vlAdYuWLpxEcbNjk/tHnC/WR6LBuHncfHYh5rKt71j1QroedMLwneEqQF63Q+C8BvhKviGtGDvdtzSBiLc73l2n57Mh7RgEPqRtq5+PfiGV0CvdpC1FVvj08h5eAUEoU01XBGfSQX0vDfROKE2fPpeZVV8pgCphH3I7mYDsCJbj7AiV0KPPHsfPPZcTO4Bjz5XD63ivA0dGiHHNAAjVkEAdpxvj/AiIfTIT7P1bnRcKiBPxh0n9zE1Cj7zp+Cz2D3CXL0SWmc2ovJNUQGphPWV0Brf6MPq2oL38UcLtp5WeUbEjFIDHH26y6TkIyLim+Ie0LsKroIQgPLD2jXSI+jZEXpkMvLBw/2bkJJQj8BnReiRhRW+6Vow7fjzaFoDtMQ3NcDnm7MOf7YqmGH90zwF8yH1ewIZ8E1fAb2qoHclzIJvCYAZEQKw9Jjq8HuPTfGohB7rtH7wmP5jmCvfHptjidBjfZ74lmnBG0iPDdpe22KjrNdnsaZSs5z6KTjTk7E1PsvKfodwOYARH0qy4luuBUf9psQa4Ayt9+fWptSjZ/699caNuB/0WAMAFVV7bKDW/ZPHe58J39ItePUnY/B97+CSDyHHAuqxmb1V0OM9z1b9wgBc7ckYfL8lJEQF9G7HNZUFfO/9KxTAFSqhNcCaw6H4bCi+VDiAMyO0xtd7nypW1DEQgB3hnU29qjjgOw86JMDZqiD4rk95WIAzIQRgUoAzIATf/T1O6Aro/fGM8u2l6HKzP/UeF5ECoGclFKlRGrQavlDfhJT20KMVlt6T9u8BqJ2o8vUiI1wRX6oKGPl+cFV8KQFGvB8EoHKrtLhclHa8Mr60FTBKO14dHwAfZdCi2o56DQCOStbwuqu24gj40lfAVVtxFHwA3FXaVSphJHwAPLT6FRAC0PD+zOOlZkYYDd9zf/8BgIYYOS2yuucAAAAASUVORK5CYII=&color=6aa6f8)
 
-<!-- ![](https://img.shields.io/badge/Tools-PaltformIO-informational?style=flat&logo=platformio&logoColor=white&color=6aa6f8) -->
+<!-- ![PaltformIO](https://img.shields.io/badge/Tools-PaltformIO-informational?style=flat&logo=platformio&logoColor=white&color=6aa6f8) -->
 
-## &#x1f4c8; GitHub Stats
+## 🔧 Technologies & Tools 2.0
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon-p16&langs_count=8" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jhon-p16&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>
-
-<!--
-**jhon-p16/jhon-p16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
