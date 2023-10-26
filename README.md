@@ -3,7 +3,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jhon-p16.jhon-p16)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Twitter](https://img.shields.io/twitter/follow/jhon_p16?style=social)](https://twitter.com/intent/follow?screen_name=jhon_p16)
-![Static Badge](https://img.shields.io/badge/IG?style=social&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fjhon_p16)
 
 ## Hi 👋, I'm Jhon 🇪🇨
 
