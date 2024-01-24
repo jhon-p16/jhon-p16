@@ -20,7 +20,7 @@ Software developer, hardware hacker, and maker with a passion for open source te
 
 **Contributions:**
 
-- Articles and IoT projects on FunPythonEC, a technology community working to reduce the technology divide and make knowledge more accessible: [FunPython GitHub](https://github.com/FunPythonEC) 💡
+- Tech articles and IoT projects from FunPythonEC, a community bridging the tech gap and empowering everyone through accessible skills: [FunPython GitHub](https://github.com/FunPythonEC) 💡
 
 **Expertise:**
 
